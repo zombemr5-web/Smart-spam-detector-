@@ -1,0 +1,17 @@
+{
+  "best_model": "Naive Bayes",
+  "results": {
+    "Naive Bayes": {
+      "cv_f1": 1.0,
+      "test_f1": 1.0
+    },
+    "Logistic Regression": {
+      "cv_f1": 1.0,
+      "test_f1": 1.0
+    },
+    "SVM (calibrated)": {
+      "cv_f1": 1.0,
+      "test_f1": 1.0
+    }
+  }
+}
